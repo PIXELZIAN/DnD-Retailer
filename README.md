@@ -18,5 +18,5 @@ Sign In page is were the user sign in and get a 10% discount
 variable names -->
 
 LocalStorage names --> 
-username = name of user
-currentAccount = a number of account, it can be used to check on the array.
+//username = name of user
+//currentAccount = a number of account, it can be used to check on the array.
