@@ -1,1 +1,7 @@
-.SignIn {width: 500px;}
+body {background-image: url('../img/BackgroundDnD1.png'); background-repeat: no-repeat; background-attachment: fixed; background-size: cover;}
+
+.center {margin: auto; width: 75%; padding: 10px;}
+
+button:hover {text-decoration: underline;}
+
+.SignIn {width: 400px; margin: 15px;}
