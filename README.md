@@ -3,7 +3,7 @@ Author: Eoin Ocathasaigh, Cian Dicker-Hughes, Daragh Mulvihill
 
 A web page that sell DnD goods
 
-the NavBar has 6 link to they are (Home, Shop, Cart, Checkout, About Us and Sign In)
+the NavBar has 6 link to they are (Home, Shop, Cart, About Us and Sign In)
 
 Home page will have information about DnD and 
 
