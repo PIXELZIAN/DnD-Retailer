@@ -15,4 +15,8 @@ About Us page will have the everything about the page e.g authors of the page an
 
 Sign In page is were the user sign in and get a 10% discount
 
-variable names ->
+variable names -->
+
+LocalStorage names --> 
+username = name of user
+currentAccount = a number of account, it can be used to check on the array.
