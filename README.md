@@ -19,4 +19,7 @@ variable names -->
 
 LocalStorage names --> 
 //username = name of user
-//currentAccount = a number of account, it can be used to check on the array.
+//currentAccountsNum = a number of account, it can be used to check on the array.
+//Newpassword = it the password for the new account that is made
+//NewUserEmail = it the email for the new account that is made
+//NewUserName = it the username for the new account that is made
