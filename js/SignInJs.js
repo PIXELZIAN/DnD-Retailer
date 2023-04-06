@@ -1,3 +1,5 @@
+// Author:Cian Hughes
+
 // emails and passwords for account;
 let emails = ["bob@dnd.ie", "alice@dnd.ie", "john@dnd.ie"];
 let passwords = ["abcdefgh", "01234567", "a2c4e6h8"];

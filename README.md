@@ -27,3 +27,11 @@ LocalStorage names -->
 
 image --> 
 https://dribbble.com/shots/7135204-DnD-Armory-003-Potion-of-Fire-Breath
+
+https://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/LostMineOfPhandelver
+
+https://dnd.wizards.com/media-gallery?category=wallpaper
+
+https://wall.alphacoders.com/big.php?i=1107324
+
+https://logos-world.net/dnd-dungeons-dragons-logo/

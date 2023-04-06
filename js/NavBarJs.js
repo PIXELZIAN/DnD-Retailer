@@ -1,3 +1,5 @@
+// Author:Cian Hughes
+
 let usernames = localStorage.username;
 let currentAccountNum1 = localStorage.currentAccountsNum;
 if(currentAccountNum1 > -1){
