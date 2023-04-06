@@ -23,3 +23,7 @@ LocalStorage names -->
 //Newpassword = it the password for the new account that is made
 //NewUserEmail = it the email for the new account that is made
 //NewUserName = it the username for the new account that is made
+
+
+image --> 
+https://dribbble.com/shots/7135204-DnD-Armory-003-Potion-of-Fire-Breath

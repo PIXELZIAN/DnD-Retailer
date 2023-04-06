@@ -21,8 +21,10 @@ function validateAccount(){
             localStorage.currentAccountsNum = currentAccountNum;
             localStorage.username = username1[i];
             location.href = "HomePage.html";
-        }
-       else{}
+        }else{}
+    }
+    if(currentAccountNum < 0){
+        alert("incorrect email or password");
     }
 }
 
