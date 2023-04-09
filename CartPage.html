@@ -39,7 +39,53 @@
         </div>
     </nav>
 
-    <h1>Hello</h1>
+    <h1>Your Cart</h1>
+	
+	<div class="container">
+			<div id="box2">
+				<table>
+					<tr>
+						<th>#</th>
+						<th>Product </th>
+						<th>Cost per </th>
+						<th>Quantity ordered</th>
+						<th>Total(€)</th>
+					</tr>
+					<tr>
+						<td>1.</td>
+						<td>Dice set </td>
+						<td>8.99</td>
+						<td id="qty1">2</td>
+						<td id="total1">10</td>
+					</tr>
+					<tr>
+						<td>2.</td>
+						<td>Dice Mat </td>
+						<td>11.99</td>
+						<td id="qty2">1</td>
+						<td id="total2">50</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td></td>
+						<td></td>
+						<th>Total Cost(€)</th>
+						<th id="total">60</th>
+					</tr>						
+				</table>
+			</div>
+		</div>
+		<script>
+			function read(){
+				//alert("Order details extracted from web storage and displayed in table");
+				document.getElementById("qty1").textContent = sessionStorage.qty1;
+				document.getElementById("qty2").textContent = sessionStorage.qty2;
+				document.getElementById("total1").textContent = sessionStorage.qty1 * 8.99;
+				document.getElementById("total2").textContent = sessionStorage.qty2 * 11.99;
+				document.getElementById("total").textContent = (sessionStorage.qty1 * 8.99) + (sessionStorage.qty2 * 11.99);
+			}	
+			read();
+		</script>
 
     <img src="img/DarkGreenDiceSet.jpg">
 </body>

@@ -38,8 +38,33 @@
             </div>
         </div>
     </nav>
-
-    <h1>DnD</h1>
+	<h1>Items</h1>
+    <div class="container">
+			<div id="box2">
+				<img src="img/WeaponDiceHollowMetal.jpg"><br>
+				Standard Dice: $8.99 per set<br>
+				How many die would you like to order?<br><br>
+				Qty: <input id="qty1"><br><br>
+				<button id="button1" onclick="add(1)">Add to cart</button>
+			</div>
+			<div id="box3">
+				<img src="img/diceMat.jpg"><br>
+				Dice Mat: 11.99<br>
+				How many would you like to order?<br><br>
+				Qty: <input id="qty2"><br><br>
+				<button id="button2" onclick="add(2)">Add to cart</button>
+			</div>
+		</div>
+		<script>
+			function add(quantity){
+				if(quantity == 1){
+					sessionStorage.qty1 = document.getElementById("qty1").value;
+				}else{
+					sessionStorage.qty2 = document.getElementById("qty2").value;
+				}
+				alert("Order added to cart");
+			}	
+		</script>
 
     <img src="img/DarkGreenDiceSet.jpg">
 </body>
