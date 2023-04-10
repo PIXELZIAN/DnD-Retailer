@@ -26,7 +26,7 @@ function validateAccount(){
         }else{}
     }
     if(currentAccountNum < 0){
-        alert("incorrect email or password");
+        alert("Incorrect email or password");
     }
 }
 

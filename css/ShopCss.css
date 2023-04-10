@@ -1,0 +1,8 @@
+/*Stylesheet for Shop page
+Author: Eoin Ocathasaigh */
+
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&display=swap');
+
+.myImage1, .myImage2 {height: auto; width: 200px;}
+
+.myHeading1{font-family: 'Alkatra', cursive;}

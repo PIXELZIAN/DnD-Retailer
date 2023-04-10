@@ -6,6 +6,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
     <link rel="icon" type="image/x-icon" href="img/DnD-Symbol.png">
     <link rel="stylesheet" href="css/NavBarCSS.css">
+	<link href="css/ShopCss.css" rel="stylesheet">
 </head>
 <body>
 
@@ -38,19 +39,20 @@
             </div>
         </div>
     </nav>
-	<h1>Items</h1>
+	<h1 class="myHeading1">Items</h1>
     <div class="container">
 			<div id="box2">
-				<img src="img/WeaponDiceHollowMetal.jpg"><br>
-				Standard Dice: $8.99 per set<br>
-				How many die would you like to order?<br><br>
+				<img src="img/WeaponDiceHollowMetal.jpg" alt="Dice Image" class="img-thumbnail border border-dark myImage1"><br>
+				<b>Standard Dice:</b> $8.99 per set<br>
+				How many die would you like to order?<br>
 				Qty: <input id="qty1"><br><br>
 				<button id="button1" onclick="add(1)">Add to cart</button>
+				
 			</div>
 			<div id="box3">
-				<img src="img/diceMat.jpg"><br>
-				Dice Mat: 11.99<br>
-				How many would you like to order?<br><br>
+				<br><img src="img/diceMat.jpg" alt="Dice Mat Image" class="img-thumbnail border border-dark myImage2"><br>
+				<b>Dice Mat:</b> 11.99<br>
+				How many would you like to order?<br>
 				Qty: <input id="qty2"><br><br>
 				<button id="button2" onclick="add(2)">Add to cart</button>
 			</div>
