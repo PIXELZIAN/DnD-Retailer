@@ -1,5 +1,5 @@
 # DnD-Retailer
-Author: Eoin Ocathasaigh, Cian Dicker-Hughes, Daragh Mulvihill
+Author: Eoin Ocathasaigh, Cian Dicker-Hughes, Darragh Mulvihill
 
 A web page that sell DnD goods
 
@@ -35,3 +35,8 @@ https://dnd.wizards.com/media-gallery?category=wallpaper
 https://wall.alphacoders.com/big.php?i=1107324
 
 https://logos-world.net/dnd-dungeons-dragons-logo/
+
+about us image -->
+http://clipart-library.com/clip-art/wizard-transparent-21.html
+https://www.cleanpng.com/png-dungeons-dragons-pathfinder-roleplaying-game-wood-2106223/download-png.html
+
