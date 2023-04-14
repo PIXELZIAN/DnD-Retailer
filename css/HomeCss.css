@@ -4,7 +4,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Alkatra&display=swap');
 
-.boxContainer {display: block; margin-left: auto; margin-right: auto; width: 651px; height: auto;}
+.boxContainer {display: block; margin-left: auto; margin-right: auto; width: 640px; height: 400px; margin: 5px;}
 
 .slideImg {display: block; margin-left: auto; margin-right: auto; height: 400px; width: auto;}
 
@@ -12,7 +12,7 @@
 
 .grid {border-style: solid; border-width: 2px; margin: 5px;}
 
-.decorateLinks1{color: black;}
+.decorate{color: black;}
 .decorateLinks{text-decoration: none; color: black;}
 .decorateLinks:hover{text-decoration: underline; color: black;}
 

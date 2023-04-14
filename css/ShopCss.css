@@ -24,7 +24,7 @@ td {
 			margin: auto;
 			background-color: white;
 			opacity: 80%;
-			
+			border-radius: 5px;
 		}	
 		
 .myImage1, .myImage2, .myImage3, .myImage4 {height: 150px; width: 200px;}
