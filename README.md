@@ -36,6 +36,12 @@ https://wall.alphacoders.com/big.php?i=1107324
 
 https://logos-world.net/dnd-dungeons-dragons-logo/
 
+https://www.amazon.co.uk/STOBOK-Vintage-Leather-Drawstring-Jewelry/dp/B082PRY4TL/ref=asc_df_B082PRY4TL/?tag=googshopuk-21&linkCode=df0&hvadid=427902809679&hvpos=&hvnetw=g&hvrand=14927201483969936908&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007897&hvtargid=pla-916043654618&psc=1&tag=&ref=&adgrpid=103525763030&hvpone=&hvptwo=&hvadid=427902809679&hvpos=&hvnetw=g&hvrand=14927201483969936908&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007897&hvtargid=pla-916043654618
+
+https://gnomestew.com/a-modular-and-upgradable-weapon-and-armor-system-for-dd-5e/
+
+https://dnd.wizards.com/products/essentials-kit
+
 about us image -->
 http://clipart-library.com/clip-art/wizard-transparent-21.html
 https://www.cleanpng.com/png-dungeons-dragons-pathfinder-roleplaying-game-wood-2106223/download-png.html
