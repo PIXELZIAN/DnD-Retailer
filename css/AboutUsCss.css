@@ -1,9 +1,16 @@
 /* Stylesheet for the about us page
-Author: Eoin Ocathasaigh */
+Author: Eoin Ocathasaigh + Darragh Mulvihill*/
 
 @import url('https://fonts.googleapis.com/css2?family=Alkatra&display=swap');
 
-.boxContainer {display: block; margin-left: auto; margin-right: auto; width: 651px; height: auto; border-style: solid; border-width: 2px; padding: 5px;}
+body {
+			background-image: url('../img/party.jpg'); 
+			background-repeat: no-repeat; 
+			background-attachment: fixed; 
+			background-size: cover;
+		}
+
+.boxContainer {display: block; margin-top: 50px; margin-left: auto; margin-right: auto; width: 651px; height: auto; border-style: solid; border-width: 2px; padding: 5px; background-color: white; opacity: 80%;}
 
 .myHeading1{font-family: 'Alkatra', cursive;}
 

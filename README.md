@@ -42,7 +42,6 @@ https://gnomestew.com/a-modular-and-upgradable-weapon-and-armor-system-for-dd-5e
 
 https://dnd.wizards.com/products/essentials-kit
 
-about us image -->
-http://clipart-library.com/clip-art/wizard-transparent-21.html
-https://www.cleanpng.com/png-dungeons-dragons-pathfinder-roleplaying-game-wood-2106223/download-png.html
+https://www.greenmangaming.com/blog/dd-classes-ranked-best-worst/
 
+https://wallpaperaccess.com/tiamat
