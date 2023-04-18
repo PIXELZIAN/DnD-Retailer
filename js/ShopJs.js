@@ -1,3 +1,4 @@
+// Author: Eoin Ocathasaigh, Darragh Mulvihill
 //Quantity of the Products
 function add(quantity){
     if(quantity == 1){

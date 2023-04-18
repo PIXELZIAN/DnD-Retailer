@@ -1,3 +1,4 @@
+// Author: Eoin Ocathasaigh, Cian Dicker-Hughes, Darragh Mulvihill
 function read(){
     let diceSet = sessionStorage.qty1; 
     let diceMat = sessionStorage.qty2; 
