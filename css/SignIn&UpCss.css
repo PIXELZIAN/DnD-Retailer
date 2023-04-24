@@ -9,3 +9,5 @@ body {background-image: url('../img/BackgroundDnD1.png'); background-repeat: no-
 button:hover {text-decoration: underline;}
 
 .SignIn {width: 400px; margin: 15px;}
+
+.myHeading{color: white;}
