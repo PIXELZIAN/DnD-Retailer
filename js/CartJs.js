@@ -1,4 +1,7 @@
 // Author: Eoin Ocathasaigh, Cian Dicker-Hughes, Darragh Mulvihill
+
+let totalcost;
+
 function read(){
     let diceSet = sessionStorage.qty1; 
     let diceMat = sessionStorage.qty2; 
@@ -29,8 +32,21 @@ function read(){
     document.getElementById("total4").textContent = diceBag * 11.99;
 
     // get total cost
-    document.getElementById("total").textContent = ((diceSet * 8.99) + (diceMat * 11.99) + (essentialsKit * 19.99) + (diceBag * 11.99));
+    totalcost = document.getElementById("total").textContent = ((diceSet * 8.99) + (diceMat * 11.99) + (essentialsKit * 19.99) + (diceBag * 11.99));
 }	
 read();
 
- 
+// updata the if user is sign in and get 10% discount 
+if(currentAccountNum1 > -1){
+    // get discount
+    let discount1 = totalcost * 0.10;
+    let discountCost = totalcost - discount1;
+    
+    // round to two decimal places
+    discount1 = discount1.toFixed(2);
+    discountCost = discountCost.toFixed(2);
+
+    //discount
+    document.getElementById("discount").innerHTML = "<td colspan='2'>10% Discount</td><td colspan='2'>You are saving "+ discount1 +"</td><td>=</td>";
+    document.getElementById("total").textContent = discountCost;
+  }

@@ -40,10 +40,16 @@ Author: Eoin Ocathasaigh & Cian Hughes*/
 		}
 		#box1, #box2{padding: 15px;}
 		div{border-radius: 5px;}
+
 		a{
-			color: white;		
-			padding: 10px;	
+			/*color: white;		
+			padding: 10px;*/
+			text-decoration: none;
 		}
+		a:hover{
+			text-decoration: underline;
+		}
+
 		table, tr, th, td{
 			border: 2px solid black; 
 			border-collapse: collapse;
