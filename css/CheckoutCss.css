@@ -9,3 +9,25 @@ Author: Cian Hughes*/
 			background-attachment: fixed; 
 			background-size: cover;
 		}
+
+		.myHeading{
+			text-align: center;
+			font-family: 'Alkatra', cursive;
+		}
+
+		.contOne{
+			display: grid;
+			grid-template-columns: 1fr;
+			grid-gap: 4px;
+			width: 600px;
+			margin-top: 20px;
+			margin: auto;
+		}	
+
+		.box1{
+			background-color: white;
+			opacity: 80%;
+			padding: 10px;
+		}
+
+		div{border-radius: 5px;}
