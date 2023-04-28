@@ -32,7 +32,9 @@ function read(){
     document.getElementById("total4").textContent = diceBag * 11.99;
 
     // get total cost
-    totalcost = document.getElementById("total").textContent = ((diceSet * 8.99) + (diceMat * 11.99) + (essentialsKit * 19.99) + (diceBag * 11.99));
+    totalcost =(diceSet * 8.99) + (diceMat * 11.99) + (essentialsKit * 19.99) + (diceBag * 11.99);
+    totalcost = totalcost.toFixed(2);
+    document.getElementById("total").textContent = totalcost;
 }	
 read();
 

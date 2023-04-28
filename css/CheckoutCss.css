@@ -26,8 +26,14 @@ Author: Cian Hughes*/
 
 		.box1{
 			background-color: white;
-			opacity: 80%;
+			opacity: 85%;
 			padding: 10px;
 		}
 
 		div{border-radius: 5px;}
+
+		hr.solid {
+			border-top: 5px solid #bbb;
+		  }
+
+		.completebutton:hover {text-decoration: underline;}
