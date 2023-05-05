@@ -1,4 +1,4 @@
-// Author:Cian Hughes
+// Author:Cian Hughes, Eoin Ocathasaigh, Darragh Mulvihill
 
 let usernames = localStorage.username;
 let currentAccountNum1 = localStorage.currentAccountsNum;

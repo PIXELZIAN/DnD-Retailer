@@ -1,4 +1,4 @@
-// Author:Cian Hughes
+// Author:Cian Hughes, Eoin Ocathasaigh, Darragh Mulvihill
 
 // emails and passwords for account;
 let emails = ["bob@dnd.ie", "alice@dnd.ie", "john@dnd.ie"];
